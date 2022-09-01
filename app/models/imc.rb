@@ -1,0 +1,5 @@
+class Imc < ApplicationRecord
+    
+    
+
+end
