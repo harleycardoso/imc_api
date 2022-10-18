@@ -1,24 +1,12 @@
-# README
+# imc_ruby_api
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Api em Ruby
 
-Things you may want to cover:
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/harleycardoso)](https://github.com/harleycardoso)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harleycardoso/)](https://www.linkedin.com/in/harleycardoso/)
 
-* Ruby version
+### Sobre
 
-* System dependencies
+- API Restful em Ruby on Rails para cálculo do IMC.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Criação de rota HTTP POST, que receba um JSON e retorna um JSON.
